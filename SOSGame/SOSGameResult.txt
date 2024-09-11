@@ -1,0 +1,10 @@
+Player: blue, Move:[2, 2], Letter: O
+Player: red, Move:[2, 0], Letter: S
+Player: blue, Move:[0, 1], Letter: O
+Player: red, Move:[0, 0], Letter: O
+Player: blue, Move:[1, 1], Letter: S
+Player: red, Move:[2, 1], Letter: S
+Player: blue, Move:[1, 0], Letter: S
+Player: red, Move:[1, 2], Letter: S
+Player: blue, Move:[0, 2], Letter: S
+Winner: null
